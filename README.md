@@ -1,6 +1,8 @@
 
 <h1 align="center"> Componente de QR Code</h1>
 <p align="center">Página Web HTML estática, contendo um QR code para redirecionamento</p>
+<p align="center">Deploy: https://frontendmentor-qrcode-bywill.vercel.app/</p>
+
 
 ![image](https://github.com/user-attachments/assets/2ad909f2-97c1-4568-b4c3-1610ced53714)
 
